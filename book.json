@@ -1,0 +1,25 @@
+{
+"book" :[
+	{
+	"Name" : "Statistics for Business and Economics",
+	"Author" : ["James T. McClav", "P. George Benson", "Terry T Sincich"],
+	"Cost" : 136,
+	"Pages" : 864,
+	"PublicationDate" : "12-31-2012"
+	},
+	{
+ 	"Name" : "OpenIntro Statistics",
+	"Author" : ["JDavid M Diez", "Christopher D Barr", "Mine Çetinkaya-Rundel"],
+	"Cost" : 15,
+	"Pages" : 436,
+	"PublicationDate" : "07-02-2015"
+	},
+	{
+	"Name" : "An Introduction to Statistical Learning",
+	"Author" : ["Gareth James", "Daniela Witten", "Trevor Hastie", "Robert Tibshirani"],
+	"Cost" : 52,
+	"Pages" : 426,
+	"PublicationDate" : "09-01-2017"
+	}
+	]
+}
