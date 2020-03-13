@@ -5,7 +5,7 @@
    <book>
       <NAME>Statistics for Business and Economics</NAME>
       <Author>James T. McClave, P. George Benson, Terry T Sincich</Author>
-      <Cost($)>136</Cost($)>
+      <Cost>136</Cost>
       <Pages>864</Pages>
       <PublicationDate>12-31-2012</PublicationDate>
    </book>
@@ -13,7 +13,7 @@
    <book>
       <NAME>OpenIntro Statistics</NAME>
       <Author>JDavid M Diez, Christopher D Barr, Mine Çetinkaya-Rundel</Author>
-      <Cost($)>15</Cost($)>
+      <Cost>15</Cost>
       <Pages>436</Pages>
       <PublicationDate>07-02-2015</PublicationDate>
    </book>
@@ -21,7 +21,7 @@
    <book>
       <NAME>An Introduction to Statistical Learning</NAME>
       <Author>Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani</Author>
-      <Cost($)>52</Cost($)>
+      <Cost>52</Cost>
       <Pages>426</Pages>
       <PublicationDate>09-01-2017</PublicationDate>
    </book>
